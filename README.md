@@ -3,6 +3,7 @@ It stores only the non-zero elements with their row and column positions, saving
 The program can insert elements and print the full matrix.
 
 #OUTPUT
+
 0 5 0 0 0
 
 0 0 0 8 0

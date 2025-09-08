@@ -4,6 +4,9 @@ The program can insert elements and print the full matrix.
 
 #OUTPUT
 0 5 0 0 0
+
 0 0 0 8 0
+
 3 0 0 0 0
+
 0 0 0 0 6
